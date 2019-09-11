@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Patrick Reichelt | Software Engineer',
   siteDescription:
-    'Patrick Reichelt is a software engineer based in Leipzig, GER who specializes in developing nativ iOS Applications written in Swift.',
+    'Patrick Reichelt is a software engineer based in Leipzig, GER who specializes in developing nativ iOS applications written in Swift.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: '',
+    'Patrick, Reichelt, i_codemonkey, software engineer, ios, swift, mobile, xcode, apple',
+  siteUrl: 'https://laughing-raman-e703c6.netlify.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Leipzig, GER',
   email: 'patrickreichelt@live.com',
   github: 'https://github.com/AF-pre',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@i_codemonkey',
   socialMedia: [
     {
       name: 'Github',

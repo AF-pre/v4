@@ -1,6 +1,6 @@
 # V4
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status)](https://app.netlify.com/sites/brittanychiang/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8308abb-3c9a-4bf2-a364-5afd4e0359d4/deploy-status)](https://app.netlify.com/sites/laughing-raman-e703c6/deploys)
 
 > The fourth iteration of brittanychiang.com built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/)
 
